@@ -15,7 +15,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 ### Filtri per Tipologia (A-L)
 
 - [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
-- [Esercizi d'esame](../../../discussions/categories/esoneri-esami-a-l)
+- [Esercizi di esonero o d'esame](../../../discussions/categories/esoneri-esami-a-l)
 
 ## 🗃 Risorse utili
 
@@ -23,7 +23,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce di esonero o d'esame](../../../discussions/new?category=esoneri-esami-a-l), [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), e se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire non solo proponendo soluzioni o commentando, ma anche [aggiungendo tracce di esercizi di esonero o d'esame](../../../discussions/new?category=esoneri-esami-a-l) e [aggiungendo tracce di esercizi per casa](../../../discussions/new?category=esercizi-a-l). Se vuoi dare un contributo ancora più significativo, puoi anche entrare a far parte del team di gestione! 🙂
 
 Originariamente è stato invece gestito, nell'A.A. 2023/24, da [Ionut Cicio](https://github.com/CuriousCI) e [Valerio Fontana](https://github.com/FeddyLix17), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
 

@@ -15,7 +15,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 ### Filtri per Tipologia (M-Z)
 
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
-- [Esercizi d'esame](../../../discussions/categories/esoneri-esami-m-z)
+- [Esercizi di esonero o d'esame](../../../discussions/categories/esoneri-esami-m-z)
 
 ## 🗃 Risorse utili
 
@@ -24,9 +24,9 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce di esonero o d'esame](../../../discussions/new?category=esoneri-esami-m-z), [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-m-z), e se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire non solo proponendo soluzioni o commentando, ma anche [aggiungendo tracce di esercizi di esonero o d'esame](../../../discussions/new?category=esoneri-esami-m-z) e [aggiungendo tracce di esercizi per casa](../../../discussions/new?category=esercizi-m-z). Se vuoi dare un contributo ancora più significativo, puoi anche entrare a far parte del team di gestione! 🙂
 
-Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
+Attualmente, la gestione di questo forum, in particolare della sezione M-Z, è affidata ai seguenti colleghi e colleghe:
 - Matteo **R.** ([@rimaout](https://github.com/rimaout))
 - Luca **Martinelli** ([@luckignolo32](https://github.com/luckignolo32)) [[Telegram](https://t.me/LucaM1655)]
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
