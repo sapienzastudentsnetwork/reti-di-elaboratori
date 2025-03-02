@@ -1,14 +1,13 @@
 # Reti di Elaboratori
 
-Collezione di [**esercizi**](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions) proposti in aula, con **soluzioni** degli studenti _(ed eventualmente anche soluzioni dei docenti)._ Proponendo la tua soluzione potrai ricevere un feedback.
+## 👋 Introduzione al forum
 
-## Categorie esercizi
+ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ed Esercizi di Reti di Elaboratori assegnati, a lezione e nei testi d'esame, dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
 
-- [appelli, esoneri e esami - 1](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esoneri-esami-1)
-- [appelli, esoneri e esami - 2](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esoneri-esami-2)
-- [esercizi vari - 1](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esercizi-1)
-- [esercizi vari - 2](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esercizi-2)
+💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
----
+## 🚀 Inizia subito
 
-- **Proff.** [Gaia **Maselli**](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/maselli/README.md)
+Scegli un Canale di Insegnamento per iniziare subito ad aggiungere o ad esplorare Esercizi e Soluzioni
+- **Proff.** [Alessandro **Checco** (**A-L**)](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/checco/README.md)
+- **Proff.** [Gaia **Maselli** (**M-Z**)](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/maselli/README.md)
