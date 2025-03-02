@@ -8,3 +8,7 @@ Collezione di [**esercizi**](https://github.com/sapienzastudentsnetwork/reti-di-
 - [appelli, esoneri e esami - 2](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esoneri-esami-2)
 - [esercizi vari - 1](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esercizi-1)
 - [esercizi vari - 2](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions/categories/esercizi-2)
+
+---
+
+- **Proff.** [Gaia **Maselli**](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/maselli/README.md)
