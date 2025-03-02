@@ -9,5 +9,5 @@
 ## 🚀 Inizia subito
 
 Scegli un Canale di Insegnamento per iniziare subito ad aggiungere o ad esplorare Esercizi e Soluzioni
-- **Proff.** [Alessandro **Checco** (**A-L**)](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/checco/README.md)
-- **Proff.** [Gaia **Maselli** (**M-Z**)](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/maselli/README.md)
+- **Prof.** [Alessandro **Checco** (**A-L**)](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/checco/README.md)
+- **Prof.ssa** [Gaia **Maselli** (**M-Z**)](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/blob/main/maselli/README.md)

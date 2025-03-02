@@ -1,4 +1,4 @@
-# [A.A. 2024/25] Checco (A/L)
+# [A.A. 2024/25] Checco (A-L)
 
 ## 🗂 Indice
 
@@ -12,22 +12,19 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 
 ## 🔗 Collegamenti rapidi
 
-### Filtri per Tipologia (M/Z)
+### Filtri per Tipologia (A-L)
 
-- [Esercizi per casa](../../../discussions/categories/esercizi-1)
-- [Esercizi d'esame](../../../discussions/categories/esoneri-esami-1)
+- [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
+- [Esercizi d'esame](../../../discussions/categories/esoneri-esami-a-l)
 
 ## 🗃 Risorse utili
 
-- [**Google Classroom**](https://classroom.google.com/c/MjMwOTU4NzAwNzBa?cjc=sfh4tjl)
+- [**Google Classroom**](https://classroom.google.com/c/MjMwOTU4NzAwNzBa?cjc=sfh4tjl) >> contiene gli annunci, le slide delle lezioni e gli esercizi assegnati durante il corso per il canale A-L dell'A.A. 2024/25
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esoneri-esami-1), [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-1), e se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce di esonero o d'esame](../../../discussions/new?category=esoneri-esami-a-l), [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), e se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
-Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
- - /
-
-Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Ionut Cicio](https://github.com/CuriousCI), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
+Originariamente è stato invece gestito, nell'A.A. 2023/24, da [Ionut Cicio](https://github.com/CuriousCI) e [Valerio Fontana](https://github.com/FeddyLix17), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
 
 Grazie mille in anticipo per il tuo contributo 🙌
