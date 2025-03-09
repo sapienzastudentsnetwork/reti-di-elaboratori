@@ -19,7 +19,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 
 ## 🗃 Risorse utili
 
-- [**Google Classroom**](https://classroom.google.com/u/1/c/MjEzMzIzMjE4MDBa) >> contiene gli annunci, le slide delle lezioni e gli esercizi assegnati durante il corso per il canale M-Z dell'A.A. 2024/25
+- [**Google Classroom**](https://classroom.google.com/c/MjEzMzIzMjE4MDBa?cjc=27vt4xu) >> contiene gli annunci, le slide delle lezioni e gli esercizi assegnati durante il corso per il canale M-Z dell'A.A. 2024/25
 
 ## 👷‍♀️ Gestori
 
